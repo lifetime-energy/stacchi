@@ -1187,8 +1187,8 @@ pre {
 
 .justify-content-md-end {
   position: absolute;
-  top: 20%;
-  right: 10%;
+  top: 60%;
+  right: 5%;
   z-index: 10;
   color: black;
 }
