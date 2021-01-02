@@ -1200,10 +1200,9 @@ pre {
   color: black;
 }
 
-@media (max-width: 767px) {
+@media (max-width: 768px) {
 .header-video {
   display: block;
-  max-width: 1440px;
   width: 100%;
   margin: 0 auto;
   margin-top: 4rem;
@@ -1218,8 +1217,8 @@ pre {
 
 .justify-content-md-end {
   position: absolute;
-  top: 25%;
-  right: 18%;
+  top: 50%;
+  right: 10%;
   z-index: 10;
   color: black;
 }
@@ -1232,9 +1231,22 @@ pre {
   font-size: 1.2rem;
   margin-top: -1.5rem;
 }
+
+.title {
+  display: none;
+}
 }
 
 @media (max-width: 500px) {
+
+  .justify-content-md-end {
+    position: absolute;
+    top: 25%;
+    right: 18%;
+    z-index: 10;
+    color: black;
+  }
+
   .title {
     display: none;
   }
