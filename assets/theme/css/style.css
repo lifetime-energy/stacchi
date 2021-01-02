@@ -1169,3 +1169,73 @@ pre {
   justify-content: center;
   -webkit-justify-content: center;
 }
+
+
+.header-video {
+  display: block;
+  max-width: 1440px;
+  width: 100%;
+  margin: 0 auto;
+  padding-top: 0rem;
+  padding-bottom: 0rem;
+  padding-left: 0rem;
+  padding-right: 0rem;
+  height: 90%;
+  z-index: 1;
+  position: relative;
+}
+
+.justify-content-md-end {
+  position: absolute;
+  top: 20%;
+  right: 10%;
+  z-index: 10;
+  color: black;
+}
+
+.title, .title1, .title2 {
+  display: block;
+  width: 100%;
+  margin: 0 auto;
+  color: black;
+}
+
+@media (max-width: 767px) {
+.header-video {
+  display: block;
+  max-width: 1440px;
+  width: 100%;
+  margin: 0 auto;
+  margin-top: 4rem;
+  padding-top: 0rem;
+  padding-bottom: 0rem;
+  padding-left: 0rem;
+  padding-right: 0rem;
+  height: auto;
+  z-index: 1;
+  position: relative;
+}
+
+.justify-content-md-end {
+  position: absolute;
+  top: 25%;
+  right: 18%;
+  z-index: 10;
+  color: black;
+}
+
+.header-container h3 {
+  font-size: 1.2rem;
+}
+
+.header-container p {
+  font-size: 1.2rem;
+  margin-top: -1.5rem;
+}
+}
+
+@media (max-width: 500px) {
+  .title {
+    display: none;
+  }
+}
