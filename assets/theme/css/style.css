@@ -1260,6 +1260,10 @@ pre {
 .title {
   display: none;
 }
+  
+  .title, .title1, .title2 {
+    display: none;
+  }
 
 
 }
@@ -1273,9 +1277,7 @@ pre {
     margin: 0 auto;
   }
 
-  .title, .title1, .title2 {
-    display: none;
-  }
+  
 }
 
 
