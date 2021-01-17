@@ -1281,6 +1281,10 @@ pre {
     margin: 0 auto;
   }
   
+  .card {
+    padding-right: 2.7rem;
+  }
+  
   section p {
     text-align: left !important;
   }
@@ -1297,9 +1301,7 @@ pre {
     text-align: center !important;
   }
   
-  .card {
-    padding-right: 2.7rem;
-  }
+  
   
 
 }
