@@ -1219,6 +1219,12 @@ pre {
   margin: 0 auto;
 }
 
+.jema {
+  font-size: 1.2rem;
+  color: blue;
+  border-under: solid 1px blue;
+}
+
 @media (max-width: 768px) {
 .header-video {
   display: none;
