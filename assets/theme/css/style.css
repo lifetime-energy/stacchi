@@ -1274,6 +1274,14 @@ pre {
     width: 100%;
     margin: 0 auto;
   }
+  
+  section p {
+    text-align: left;
+  }
+  
+  section h5 {
+    text-align: left;
+  }
 
   
 }
