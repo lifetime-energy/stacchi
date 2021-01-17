@@ -1293,6 +1293,9 @@ pre {
     display: none;
   }
 
+  .mbr-text {
+    text-align: left;
+  }
 
 }
 
