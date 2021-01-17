@@ -1276,11 +1276,11 @@ pre {
   }
   
   section p {
-    text-align: left;
+    text-align: left !important;
   }
   
-  section h5 {
-    text-align: left;
+  section h3, h4, h5 {
+    text-align: left !important;
   }
 
   
