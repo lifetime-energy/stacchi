@@ -1283,6 +1283,9 @@ pre {
     text-align: left !important;
   }
 
+  .card-box h3, h4, h5 {
+    text-align: center !important;
+  }
   
 }
 
