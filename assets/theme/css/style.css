@@ -1293,11 +1293,11 @@ pre {
     text-align: left !important;
   }
 
-  .card-box h3, h4, h5, .use-price {
+  .card-price h3, h4, h5, .use-price {
     text-align: center !important;
   }
   
-  .card-box p {
+  .card-price p {
     text-align: center !important;
   }
   
