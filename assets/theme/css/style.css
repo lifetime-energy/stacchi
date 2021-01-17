@@ -1350,3 +1350,7 @@ pre {
   padding: 3rem 0rem;
   margin-top: 0rem;
 }
+
+.info1 {
+  display: none;
+}
